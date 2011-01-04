@@ -9,6 +9,7 @@ Open-Source Blog Post manager written in Ruby
 Currently its just a script, so run it as such.
 
 > $ chmod +x poster.rb
+
 > $ ./poster.rb -p "Post Name" -c
 
 ## Contributing to Poster
