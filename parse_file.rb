@@ -30,6 +30,5 @@ File.open(file_path + '.md', 'r') do |file|
 		while (line = file.gets)
 			md_string += line
 		end
-		wfile.puts Maruku.new(md_string).to_html_document
+		wfile.puts Maruku.new(md_string).to_html
 	end
-end
