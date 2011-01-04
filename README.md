@@ -18,5 +18,7 @@ Feel free to contribute, please get in contact with me if you do want to contrib
 ## Resources
 
 My info:
-- [Blog][http://www.happyrobotlabs.com]
-- [Twitter][http://www.twitter.com/#!/cjwoodall92]
+
+- [Blog](http://www.happyrobotlabs.com)
+
+- [Twitter](http://www.twitter.com/#!/cjwoodall92)
