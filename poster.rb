@@ -8,8 +8,10 @@
 # Copyright: Apache License 2.0
 ##
 
+
 # Gems and Libraries
 require 'rubygems'
+require 'bundler/setup' # Bundler Support
 require 'date'
 require 'ftools' 
 require 'optparse'
